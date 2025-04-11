@@ -1,5 +1,5 @@
 // OpenAI API anahtarını buraya ekleyin
-const apiKey = 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; // Buraya kendi OpenAI API anahtarınızı ekleyin
+const apiKey = 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; // Buraya kendi OpenAI API anahtarınızı ekleyin
 
 // Kullanıcı mesajını al ve OpenAI'ye gönder
 async function sendMessage() {
